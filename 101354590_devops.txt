@@ -7,3 +7,4 @@ More on what is DevOps, it is a set of practices to automate the processes betwe
 The introduction of devops engineer job roles and responsibilities, also the salary range in the IT world
 Understand what is devops life cycle, it's included development, integration, testing, monitoring, feedback, deployment, operations
 Understand horizontal scaling can derease the risk when the server is down, becuase it's not only rely on one server. The risk for downtimes in vertical scaling is much higher.
+How does actions work in GibHub, there are vaious actions in there. For example: deployment, security, continuous integration, automation and pages. It's like plug in features.
