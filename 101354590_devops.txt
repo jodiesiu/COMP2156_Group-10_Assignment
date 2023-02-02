@@ -2,3 +2,4 @@ Professor Pritesh makes me like this subject, I am looking forward to each lesso
 Github is a really cool tool, I feel exiciting to learn this fancy tool. It is an open source project that is considered to be a version control system where the user can store and share their repositories
 Understand the why continuous integration CI and continious delivery are so importnat in DevOps, it's better to deliver a small trunk of work to customers by Agile approach
 Understand what is a version control system (VCS), this is a category of software tools that helps record changes to files by keeping track of modifications done to the code
+Understand what is distributed version control system (DVCS), it's contained push and pull. Push means push the changes from your local computer to the central repository. Pull menans is vice versa.
