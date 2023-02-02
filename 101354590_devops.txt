@@ -3,3 +3,5 @@ Github is a really cool tool, I feel exiciting to learn this fancy tool. It is a
 Understand the why continuous integration CI and continious delivery are so importnat in DevOps, it's better to deliver a small trunk of work to customers by Agile approach
 Understand what is a version control system (VCS), this is a category of software tools that helps record changes to files by keeping track of modifications done to the code
 Understand what is distributed version control system (DVCS), it's contained push and pull. Push means push the changes from your local computer to the central repository. Pull menans is vice versa.
+More on what is DevOps, it is a set of practices to automate the processes between software development and IT Teams. It is applied Agile concept to delivery the software faster
+The introduction of devops engineer job roles and responsibilities, also the salary range in the IT world
