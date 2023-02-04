@@ -1,2 +1,1 @@
 COMP 2156 is a devops course that combinations of software development and information technology operations taht enables business to deliver applications at a faster pace.
-A competent DevOps lifecycle is necessary to leverage the full benefits of the Devops methodology.
