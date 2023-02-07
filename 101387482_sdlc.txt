@@ -16,4 +16,5 @@ Key roleplayers can greatly increase the chances of your DevOps initiative succe
 can explain the business benefits brought about by the greater agility of DevOps practices, thereby enhancing your odds of success. Having software-defined, flexible, adaptable and highly available production and pre-production systems is crucial to DevOps success.
 An automation specialist can develop strategies to ensure that these systems are continuously integrated and deployed.
 
-4. As a result of DevOps, customers are more satisfied and the efficiency of the company is increased. It has been found that products have a better quality when devOps is used because it has a better productivity and efficiency.
+4. Facilitate for the better quality of a product
+ As a result of DevOps, customers are more satisfied and the efficiency of the company is increased. It has been found that products have a better quality when devOps is used because it has a better productivity and efficiency.
