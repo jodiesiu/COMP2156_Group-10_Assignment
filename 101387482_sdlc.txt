@@ -1,0 +1,11 @@
+The important of learning DevOps engineering:
+
+1. Maximizes Efficiency with Automation:
+
+According to Robert Stroud, a DevOps authority who has passed away, DevOps is all about "fueling business transformation" by changing people, processes, and cultures.
+An effective DevOps transformation involves making structural improvements that build community, and a successful DevOps project requires an effort to improve multiple teams' collaboration, including product development, engineering, security, IT, operations,
+and so on—along with automation—in order to achieve business goals more effectively.
+
+2. Optimizes the Entire Business:
+
+Known as the originator of the DevOps movement, system architect Patrick Debois says that its biggest advantage is its ability to drive business-wide improvements by optimizing the whole system, not just IT silos.
