@@ -1,0 +1,2 @@
+With DevOps, an organization can deliver applications and services at high velocity by combining cultural philosophies, practices, and tools. Organizations with traditional software development and infrastructure management processes can evolve and improve
+products at a faster pace than those using DevOps. The faster the organization can serve the customer and compete in the market, the better it is able to serve its customers.
