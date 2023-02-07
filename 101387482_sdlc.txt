@@ -15,3 +15,5 @@ Known as the originator of the DevOps movement, system architect Patrick Debois 
 Key roleplayers can greatly increase the chances of your DevOps initiative success, as they can explain the business benefits brought by the greater agility of DevOps practices and dispel misconceptions and fears. A DevOps evangelist, for example,
 can explain the business benefits brought about by the greater agility of DevOps practices, thereby enhancing your odds of success. Having software-defined, flexible, adaptable and highly available production and pre-production systems is crucial to DevOps success.
 An automation specialist can develop strategies to ensure that these systems are continuously integrated and deployed.
+
+4. As a result of DevOps, customers are more satisfied and the efficiency of the company is increased. It has been found that products have a better quality when devOps is used because it has a better productivity and efficiency.
