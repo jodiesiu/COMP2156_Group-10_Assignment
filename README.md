@@ -5,15 +5,11 @@ Huy Le- 101387482
 
 
 
+- This is Jodie Siu 1013590
+- I love DevOps, it's so fancy & fun.
 
 
-
-
-
-
-
-
-We have 4 teammates in this group 10
+We have 4 teammates in the Group 10, Jodie Siu, Huy Le, Alice Wu
 
 
 
