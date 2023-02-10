@@ -1,1 +1,5 @@
-Devops lifecycle is a processs of continuous software development, integration, testing, deployment, and monitoring. It promotes a culture of experimentation, feedback, and constant learning to reinvent products, services, and processes. THe Devops lifecycle optimizes development processes from start to end and engages the organization in continuous development, resulting in faster delivery times.
+Devops lifecycle is a combination of different phases of continuous software development, integration, testing, deployment, and monitoring. 
+It promotes a culture of experimentation, feedback, and constant learning to reinvent products, services, and processes. 
+The Devops lifecycle optimizes development processes from start to end and engages the organization in continuous development, 
+resulting in faster delivery times.
+Continuous development involves planning and coding the software.
