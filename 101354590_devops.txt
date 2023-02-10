@@ -1,0 +1,11 @@
+Professor Pritesh makes me like this subject, I am looking forward to each lesson
+Github is a really cool tool, I feel exiciting to learn this fancy tool. It is an open source project that is considered to be a version control system where the user can store and share their repositories
+Understand the why continuous integration CI and continious delivery are so importnat in DevOps, it's better to deliver a small trunk of work to customers by Agile approach
+Understand what is a version control system (VCS), this is a category of software tools that helps record changes to files by keeping track of modifications done to the code
+Understand what is distributed version control system (DVCS), it's contained push and pull. Push means push the changes from your local computer to the central repository. Pull menans is vice versa.
+More on what is DevOps, it is a set of practices to automate the processes between software development and IT Teams. It is applied Agile concept to delivery the software faster
+The introduction of devops engineer job roles and responsibilities, also the salary range in the IT world
+Understand what is devops life cycle, it's included development, integration, testing, monitoring, feedback, deployment, operations
+Understand horizontal scaling can derease the risk when the server is down, becuase it's not only rely on one server. The risk for downtimes in vertical scaling is much higher.
+How does actions work in GibHub, there are vaious actions in there. For example: deployment, security, continuous integration, automation and pages. It's like plug in features.
+Understand the basic concept of node.js, it's a scipt language writing by C, C++, JavaScript. Node.js is an open source server environment. It can runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
