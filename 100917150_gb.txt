@@ -1,1 +1,5 @@
-George Brown is a right place to learn programming. The college offers two years course to prepare you become a computer system technician. The course provides in system support area, network administration and web technologies.  
+George Brown is a right place to learn programming. 
+The college offers two years course to prepare you become a computer system technician. 
+The course provides in system support area, network administration and web technologies.  
+Computer system technician establish, operate, maintain and co-ordinate the use of local and wide area network,
+softeare services and related computer equipment.
