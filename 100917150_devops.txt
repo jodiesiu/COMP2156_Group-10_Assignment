@@ -1,1 +1,7 @@
-COMP 2156 is a devops course that combinations of software development and information technology operations taht enables business to deliver applications at a faster pace. This course helps me understand the different between waterfall and agile methodology. Waterfall project is a sequential approach that divides the SDLC to distinct phases such as requirements gathering, analysis and design, coding and unit testing, system and user acceptance testing, and deployment. THe next phase can only proceed if the previous phase has been completed. In between phases, a deliverable is expected or document is signed off. In the other hand, Agile development is a team-based approach that emphasizes rapid deployment of a functional application with a focus on customer satisfaction. It defines a time-boxed phase called a sprint with a defined duration of two weeks.   
+COMP 2156 is a devops course that combinations of software development and information technology operations taht enables business to deliver applications at a faster pace. 
+This course helps me understand the different between waterfall and agile methodology. 
+Waterfall project is a sequential approach that divides the SDLC to distinct phases such as requirements gathering, analysis and design, coding and unit testing, system and user acceptance testing, and deployment. 
+The next phase can only proceed if the previous phase has been completed. 
+In between phases, a deliverable is expected or document is signed off. 
+In the other hand, Agile development is a team-based approach that emphasizes rapid deployment of a functional application with a focus on customer satisfaction. 
+It defines a time-boxed phase called a sprint with a defined duration of two weeks.   
