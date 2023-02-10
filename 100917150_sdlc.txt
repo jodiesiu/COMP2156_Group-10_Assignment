@@ -3,3 +3,7 @@ It promotes a culture of experimentation, feedback, and constant learning to rei
 The Devops lifecycle optimizes development processes from start to end and engages the organization in continuous development, 
 resulting in faster delivery times.
 Continuous development involves planning and coding the software.
+Continuous integration includes different steps related to the execution of the test process.
+Continuous testing is tested for bugs and errors that many have made their way into the code.
+Continuous deployment ensures hassle-free product deployment without affecting the application's performance.
+Continuous minitoring is determine the overall efficacy of the product output.
