@@ -3,7 +3,7 @@ Group project #10
 
 Huy Le- 101387482
 
-
+Alice Wu - 100917150
 
 - This is Jodie Siu 1013590
 - I love DevOps, it's so fancy & fun.
