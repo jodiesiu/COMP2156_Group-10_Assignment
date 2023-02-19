@@ -1,0 +1,1 @@
+Software development is an iterative process that is followed for a software project that consists of several phases for building and running software applications. SDLC helps with the measurement and improvement of a process, which allows an analysis of software development each step of the way.
