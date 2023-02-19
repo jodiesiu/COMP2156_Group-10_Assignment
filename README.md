@@ -5,6 +5,8 @@ Huy Le- 101387482
 
 Alice Wu - 100917150
 
+Kunika Verma - 101376857
+
 - This is Jodie Siu 1013590
 - I love DevOps, it's so fancy & fun.
 
