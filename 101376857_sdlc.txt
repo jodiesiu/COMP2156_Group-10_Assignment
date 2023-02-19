@@ -7,3 +7,13 @@ Just as a waterfall flows in a linear fashion, waterfall SDLC is a linear model 
 
 Agile
 The agile methodology focuses strongly on user input and experience, which can solve many issues that arose from older applications that were more cumbersome to use. The software, as it moves through the agile process, is very responsive to feedback and works to release software in quicker cycles in order to adhere to a changing and rapid market.
+Source Control
+Source control keeps all of the code in a single location in order to secure the working code. This can be a physical location or a virtual location wherein users can login to an encrypted cloud environment.
+
+Continuous Integration
+Make sure that each component of the asset is consistently compatible throughout the life cycle. Continuous integration ensures that all team members avoid conflicts and duplicates by using similar programming languages and libraries.
+
+SDLC Management Systems
+Add transparency to systems through each phase of the project, and throughout the project as a whole. SDLC management systems control each step of the way while adding analytics, work management systems, and bug-tracking that can improve parts of the lice cycle that aren’t running effectively.
+
+The software development life cycle is an excellent process that can help teams through the process of developing and deploying software, including necessary fixes, by utilizing best practices and methodologies.
