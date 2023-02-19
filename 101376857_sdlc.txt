@@ -1,0 +1,19 @@
+Software development is an iterative process that is followed for a software project that consists of several phases for building and running software applications. SDLC helps with the measurement and improvement of a process, which allows an analysis of software development each step of the way.
+SDLC simply outlines each task that is required to create and deploy a software application—this prevents the reduction of waste and increases efficiency along the way. Monitoring that is a part of SDLC helps companies ensure that everything is timely, budgets are adhered to, and the software continues to be a feasible investment. SDLC is often described as leveraging Agile or Waterfall approaches and many organizations use a hybrid of both.
+There are several different approaches to software development, each different enough that an organization can find their needs fulfilled with one of them.
+
+Waterfall
+Just as a waterfall flows in a linear fashion, waterfall SDLC is a linear model that has the development of the software start from the beginning and move through each step of the process—but, the next step cannot start until the prior step has been completely finished. Waterfall SDLC helps a company analyze continuity and feasibility of each step of the process, which can help eliminate bottlenecks or silos.
+
+Agile
+The agile methodology focuses strongly on user input and experience, which can solve many issues that arose from older applications that were more cumbersome to use. The software, as it moves through the agile process, is very responsive to feedback and works to release software in quicker cycles in order to adhere to a changing and rapid market.
+Source Control
+Source control keeps all of the code in a single location in order to secure the working code. This can be a physical location or a virtual location wherein users can login to an encrypted cloud environment.
+
+Continuous Integration
+Make sure that each component of the asset is consistently compatible throughout the life cycle. Continuous integration ensures that all team members avoid conflicts and duplicates by using similar programming languages and libraries.
+
+SDLC Management Systems
+Add transparency to systems through each phase of the project, and throughout the project as a whole. SDLC management systems control each step of the way while adding analytics, work management systems, and bug-tracking that can improve parts of the lice cycle that aren’t running effectively.
+
+The software development life cycle is an excellent process that can help teams through the process of developing and deploying software, including necessary fixes, by utilizing best practices and methodologies.
